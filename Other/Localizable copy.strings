@@ -1,0 +1,10 @@
+/*
+Localizable.strings
+Test App
+Created by Nick
+*/
+
+"active" = "Active";
+"done" = "done";
+"search" = "Search";
+
